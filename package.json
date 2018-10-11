@@ -1,0 +1,23 @@
+{
+  "name": "asemail",
+  "version": "0.0.1",
+  "description": "Module allows to validate an email address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russiansoon/asemail.git"
+  },
+  "keywords": [
+    "validate",
+    "email"
+  ],
+  "author": "Nik Shevchenko <russiansoon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/russiansoon/asemail/issues"
+  },
+  "homepage": "https://github.com/russiansoon/asemail#readme"
+}

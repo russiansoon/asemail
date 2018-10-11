@@ -1,2 +1,2 @@
 # asemail
-Module to validate an email address
+Module allows to validate an email address
